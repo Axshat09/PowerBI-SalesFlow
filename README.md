@@ -14,7 +14,7 @@ This Power BI report analyzes sales data to identify trends, top-performing prod
 - `images/dashboard_screenshot.png` - Dashboard preview
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](Power BI mobile sales dashboard/Screenshot 2025-05-22 151952.png)
 
 ## 🛠 Tools Used
 - Power BI
